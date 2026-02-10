@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://oryu.8222quick.com/sitemap.xml
+
+
+
